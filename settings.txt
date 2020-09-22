@@ -1,0 +1,6 @@
+{
+  "coordinates": true,
+  "piece graphics": true,
+  "autoflip": false,
+  "stockfish default depth": 20
+}
